@@ -75,7 +75,7 @@ button:hover {
   overflow: scroll;
   height: 100%;
   background-color: #242424;
-  min-width: 200px;
+  min-width: 350px;
   width: 50%;
   max-height: 500px;
   border-radius: 5px;
