@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './atom.png';
 import './App.css';
 import { BrowserRouter as Router } from "react-router-dom";
 import AllRoutes from "./Routes";

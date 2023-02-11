@@ -1,6 +1,5 @@
 import '../App.css';
 import React from 'react';
-import logo from '../atom.png';
 import { useNavigate } from 'react-router-dom';
 
 export default function PrivacyPolicy() {
